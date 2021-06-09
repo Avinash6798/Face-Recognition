@@ -3,7 +3,7 @@ Face Recognition tutorial refference for https://youtu.be/BG3mpdzk0Rw
 
 
 # Prerequisites
-> Python 3.6.4
+[ Python 3.6.4 ]
 > OpenCV 3.4.1 or opencv-contrib-python 4.0
 > Numpy
 > Pillow
